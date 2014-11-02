@@ -76,14 +76,21 @@
 		<key></key>
 		<dict>
 			<key>previewFolderHidden</key>
-			<true/>
+			<false/>
 		</dict>
+		<key>FlappyBirdArtPack</key>
+		<dict>
+			<key>previewFolderHidden</key>
+			<false/>
+		</dict>
+		<key>FlappyBirdArtPack/clouds.png</key>
+		<dict/>
 		<key>Sprites</key>
 		<dict/>
 		<key>ccbResources</key>
 		<dict>
 			<key>previewFolderHidden</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>ccbResources/ccbButtonHighlighted.png</key>
 		<dict>
